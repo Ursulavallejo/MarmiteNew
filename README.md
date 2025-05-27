@@ -15,7 +15,6 @@ Users can browse international dishes, view step-by-step instructions with high-
 
 ---
 
-### 🛠️ Technologies Used
 
 ### 🛠️ Technologies Used
 
