@@ -1,7 +1,10 @@
 
 **Project Summary**
 
-Marmite is a **food recipe blog** built as a hands-on tutorial using **Contentful** for content management. Users can browse international dishes, view step-by-step instructions with high-quality photos, filter by cuisine, ingredients or difficulty level, and even add or edit recipes directly through the Contentful dashboard.
+
+Marmite is a **food recipe blog** created by following a step-by-step tutorial using **Contentful** as CMS  for content management. It served as research groundwork for the work I later carried out in another project. You can see that project here: [Get Hub](https://github.com/Ursulavallejo/Get_hub).
+
+Users can browse international dishes, view step-by-step instructions with high-quality photos, filter by cuisine, ingredients or difficulty level, and even add or edit recipes directly through the Contentful dashboard.
 
 ---
 
